@@ -4,7 +4,7 @@
 
 ## 💻 Project summary
 
-Responsive form where state selection fields are presented, ZIP code mask, a field to upload files (showing a preview of them) and mandatory fields validator. If you want to see the Design, just click here.
+Responsive form where state selection fields are presented, ZIP code mask, a field to upload files (showing a preview of them) and mandatory fields validator. If you want to see the Design, just [click here](https://github.com/jhonywalkeer/forms/tree/main/src/assets/screenshots).
 
 ## 🛠 Technologies
 
