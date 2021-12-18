@@ -35,7 +35,7 @@ $ cd forms
 $ npm install or yarn install
 ```
 
-And now to run our api locally just run the following command:
+And now to run our locally just run the following command:
 
 ```bash
 $ cd forms
