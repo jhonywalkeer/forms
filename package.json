@@ -2,7 +2,7 @@
   "name": "responsiveform",
   "version": "0.1.0",
   "private": true,
-  "author": "Jhony Walker"
+  "author": "Jhony Walker",
   "dependencies": {
     "@unform/core": "^2.0.0",
     "@unform/web": "^2.0.0",
