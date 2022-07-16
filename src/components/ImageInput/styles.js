@@ -23,8 +23,9 @@ export const Container = styled.div`
     position: absolute;
   }
   img {
-    width: 100%;
-    height: 100%;
+    width: 30rem;
+    height: 8rem;
+    position: absolute;
     object-fit: cover;
     border-radius: 2rem;
   }
@@ -44,3 +45,4 @@ export const Container = styled.div`
     color: var(--red);
   }
 `;
+

@@ -35,9 +35,9 @@ export default function InputImage({ name, ...rest }) {
     <Container>
       {preview && <img src={preview} alt="Preview" width="100%" />}
 
-      <input type="file" ref={inputRef} onChange={handlePreview} {...rest} />
+      <input type="file" ref={inputRef} onChange={handlePreview} accept="image/*" {...rest} />
       {!preview && (
-        <strong>Clique aqui para adicionar um arquivo PDF ou Imagem</strong>
+        <strong>Clique aqui para adicionar um arquivo Imagem</strong>
       )}
       {error && <span>{error}</span>}
     </Container>
